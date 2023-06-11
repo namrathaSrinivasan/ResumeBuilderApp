@@ -1,0 +1,66 @@
+.main{
+    margin:10px 300px;
+}
+
+.name{
+    height:40px;
+    background:lightgray;
+    padding:20px;
+    color:rgb(90, 90, 186);
+    font-size: 32px;
+    
+}
+
+.personal{
+    
+    padding:10px;
+    background-color: lightgray;
+    color:rgb(90,90,186);
+    margin:3px 1px;
+}
+h3{
+    margin:2px;
+    text-align: left;
+}
+
+.summary{
+    height:40px;
+    background-color: lightgray;
+    margin:3px 0px;
+    padding:20px;
+}
+
+.work{
+    padding:10px;
+    background-color: lightgray;
+    margin:3px 1px;
+}
+
+.work2{
+    height:40px;
+    background-color: lightgray;
+    margin:3px 0px;
+    padding:20px;
+}
+
+.education{
+    padding:10px;
+    background-color: lightgray;
+    margin:3px 1px;
+}
+
+.certificates{
+    height:40px;
+    background-color: lightgray;
+    margin:3px 0px;
+    padding:20px;
+}
+
+.skills{
+    padding:10px;
+    background-color: lightgray;
+    margin:3px 1px;   
+}
+.button{
+    text-align:'right'
+}
